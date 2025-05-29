@@ -1,0 +1,6 @@
+*build/
+output/
+.cache/
+*.bc
+build2/
+input/v6.5/testfuncs
