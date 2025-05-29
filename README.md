@@ -54,10 +54,9 @@ Run KallGraph (don't forget to use symbol '@' before the /path/to/bc.list):
 build/bin/KallGraph @src/sample_input/bc.list -OutputDir=src/sample_output/ -ThreadNum=64
 ```
 
-The output callgraph will present as /path/to/OutputDir/callgraph
+The output callgraph is at /path/to/OutputDir/callgraph
 
-https://www.computer.org/csdl/proceedings-article/sp/2025/223600c734
-
+Please cite the following research paper:
 ```
 @inproceedings{li2025redefining,
   title={Redefining Indirect Call Analysis with KallGraph},
@@ -65,6 +64,5 @@ https://www.computer.org/csdl/proceedings-article/sp/2025/223600c734
   booktitle={2025 IEEE Symposium on Security and Privacy (SP)},
   pages={2734--2752},
   year={2025},
-  organization={IEEE Computer Society}
 }
 ```
