@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/jiwoo/goinfre/KallGraph/build/src",
+  "command": "/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/bin/clang++  -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/llvm/include -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/z3.obj/include -I/home/jiwoo/goinfre/KallGraph/src/include -fPIC -std=gnu++17 -O3 -fno-rtti -Wno-deprecated -O3 -DNDEBUG -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -fno-rtti -fPIC -o CMakeFiles/KallGraph.dir/KallGraph.cpp.o -c /home/jiwoo/goinfre/KallGraph/src/KallGraph.cpp",
+  "file": "/home/jiwoo/goinfre/KallGraph/src/KallGraph.cpp",
+  "output": "src/CMakeFiles/KallGraph.dir/KallGraph.cpp.o"
+},
+{
+  "directory": "/home/jiwoo/goinfre/KallGraph/build/src",
+  "command": "/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/bin/clang++  -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/llvm/include -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/z3.obj/include -I/home/jiwoo/goinfre/KallGraph/src/include -fPIC -std=gnu++17 -O3 -fno-rtti -Wno-deprecated -O3 -DNDEBUG -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -fno-rtti -fPIC -o CMakeFiles/KallGraph.dir/lib/KallGraphAlgo.cpp.o -c /home/jiwoo/goinfre/KallGraph/src/lib/KallGraphAlgo.cpp",
+  "file": "/home/jiwoo/goinfre/KallGraph/src/lib/KallGraphAlgo.cpp",
+  "output": "src/CMakeFiles/KallGraph.dir/lib/KallGraphAlgo.cpp.o"
+},
+{
+  "directory": "/home/jiwoo/goinfre/KallGraph/build/src",
+  "command": "/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/bin/clang++  -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/llvm/include -I/home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/include -I/home/jiwoo/goinfre/KallGraph/SVF-2.5/z3.obj/include -I/home/jiwoo/goinfre/KallGraph/src/include -fPIC -std=gnu++17 -O3 -fno-rtti -Wno-deprecated -O3 -DNDEBUG -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -fno-rtti -fPIC -o CMakeFiles/KallGraph.dir/lib/Util.cpp.o -c /home/jiwoo/goinfre/KallGraph/src/lib/Util.cpp",
+  "file": "/home/jiwoo/goinfre/KallGraph/src/lib/Util.cpp",
+  "output": "src/CMakeFiles/KallGraph.dir/lib/Util.cpp.o"
+}
+]
