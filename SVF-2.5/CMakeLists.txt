@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.13.4)
 
 project("SVF")
 
-set(ENV{LLVM_DIR} /path/to/llvm-14.0.6.build/lib/cmake)
+set(ENV{LLVM_DIR} /home/jiwoo/goinfre/KallGraph/llvm-project-llvmorg-14.0.6/build/lib/cmake)
 
 configure_file(${CMAKE_CURRENT_SOURCE_DIR}/config.in ${CMAKE_CURRENT_SOURCE_DIR}/include/Util/config.h @ONLY)
 
